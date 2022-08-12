@@ -28,4 +28,4 @@ for _ in range(T):
     #     print(c // 5, end=' ')
     #     c %= 5
     #     print(c // 1)
-
+# 
