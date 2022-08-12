@@ -8,6 +8,7 @@
 #     print("1")
 # else:      
 #     print(count+1)
+# 
 N = int(input())
 member = input()
 count = member.count('LL')

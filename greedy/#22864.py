@@ -52,4 +52,4 @@ elif score_140+score_100-k<0:
 #             score += 100
 #             k -= 1
 # print(score)
-
+# 
