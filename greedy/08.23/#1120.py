@@ -1,4 +1,7 @@
-A, B = stdin.readline().rstrip().split()
+import sys
+
+
+A, B = sys.stdin.readline().rstrip().split()
 
 result = []
 for i in range(len(B) - len(A) + 1):
