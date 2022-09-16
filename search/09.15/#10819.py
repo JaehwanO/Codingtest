@@ -1,6 +1,6 @@
 from itertools import permutations
 import sys
- 
+ # ..
 # 주어진 값 입력
 n = int(sys.stdin.readline())
 a = list(map(int, sys.stdin.readline().split()))

@@ -22,7 +22,7 @@ def bfs(a,b,visited,graph):
                 visited[nx][ny]=True
                 q.append((nx,ny))
 
-
+# ..
 def three():
     visited = [[False]*n for i in range (n)]
     cnt = 0 

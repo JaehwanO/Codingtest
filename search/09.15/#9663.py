@@ -1,4 +1,5 @@
 import sys
+
 # 대각선의 퀸이 있는지 확인
 def check(x):
     for i in range(x):

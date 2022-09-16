@@ -1,6 +1,6 @@
 import sys
 input = sys.stdin.readline
-
+# .. 
 n, m = map(int,input().split())
 rs = []
 isused = [False]*(n+1)
