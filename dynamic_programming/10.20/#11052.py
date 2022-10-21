@@ -1,3 +1,4 @@
+##
 n = int(input())
 s = [0, 1]
 for i in range(2, abs(n) + 1):
