@@ -1,3 +1,4 @@
+##
 import copy
 n, m = map(int, input().split())
 cctv = []
