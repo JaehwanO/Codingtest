@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=#000000&height=200&section=header&text=Hello!%20Welcome%20to%20my%20GitHub!!&fontSize=55&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Hello!%20Welcome%20to%20my%20GitHub!!&fontSize=55&animation=scaleIn)
 
-## This repository includes all my code that I have studied/solved problems from
+## This repository includes all my code that I have studied and solved problems from
 <br/>
 <br/>
 <p align="center">
@@ -15,6 +15,7 @@
 </p>
 <br/>
 <br/>
+![Jaehwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehwan0&show_icons=true)
 
-## Currently solved: 488 problems
-### Updated: 2022.11.10
+### Currently solved: 488 problems
+#### Updated: 2022.11.10
