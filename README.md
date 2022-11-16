@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=200&section=header&text=Hello!%20Welcome%20to%20my%20GitHub!!&fontSize=55&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=#000000&height=200&section=header&text=Hello!%20Welcome%20to%20my%20GitHub!!&fontSize=55&fontColor=FFFFFF)
 
 ## This repository includes all my code that I have studied/solved problems from
 <br/>
