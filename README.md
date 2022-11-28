@@ -16,4 +16,4 @@
 <br/>
 
 ### Currently solved: 488 problems
-#### Updated: 2022.11.10
+#### Updated: 2022.11.28
