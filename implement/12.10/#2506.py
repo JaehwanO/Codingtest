@@ -1,3 +1,4 @@
+##
 n = int(input())
 sum = 0
 result = 0
